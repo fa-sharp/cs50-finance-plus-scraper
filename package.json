@@ -1,0 +1,17 @@
+{
+  "name": "cs50-finance-plus-scraper",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env index.js"
+  },
+  "keywords": [],
+  "author": "fa-sharp",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  }
+}
